@@ -1,3 +1,9 @@
+---
+layout: article
+title: Kubernetes学习笔记
+mathjax: true
+---
+
 初识Kubernetes
 
 Kubernetes集群搭建
