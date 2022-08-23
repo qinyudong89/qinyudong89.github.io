@@ -1,7 +1,6 @@
 ---
-layout: article
 title: Kubernetes学习笔记
-mathjax: true
+tags: TeXt
 ---
 
 初识Kubernetes
